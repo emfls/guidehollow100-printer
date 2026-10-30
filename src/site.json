@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow Printer",
+  "slug": "printer",
+  "short": "Printer",
+  "hero": "Make printers and scanners less frustrating.",
+  "description": "Printer setup, print queues, drivers, scanning and output quality.",
+  "accent": "#596a80",
+  "topics": [
+    "Offline printers",
+    "Print queue",
+    "Wireless printing",
+    "Drivers",
+    "Scanning",
+    "Print quality"
+  ],
+  "url": "https://printer.guidehollow.com/",
+  "launchReady": false
+}
