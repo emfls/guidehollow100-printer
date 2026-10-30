@@ -14,7 +14,8 @@
     "인쇄 품질·용지"
   ],
   "url": "https://printer.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "프린터·스캐너 문제 해결",
-  "pageTitle": "프린터·스캐너 오류 해결 가이드 | GuideHollow"
+  "pageTitle": "프린터·스캐너 오류 해결 가이드 | GuideHollow",
+  "adsReady": false
 }
