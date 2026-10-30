@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow Printer",
+  "title": "GuideHollow",
   "slug": "printer",
-  "short": "Printer",
-  "hero": "Make printers and scanners less frustrating.",
-  "description": "Printer setup, print queues, drivers, scanning and output quality.",
+  "short": "프린터",
+  "hero": "프린터가 작동하지 않을 때, 연결부터 출력까지 확인하세요.",
+  "description": "프린터 오프라인 오류, 인쇄 대기열, 무선 연결, 드라이버와 스캔 문제 해결법을 안내합니다.",
   "accent": "#596a80",
   "topics": [
-    "Offline printers",
-    "Print queue",
-    "Wireless printing",
-    "Drivers",
-    "Scanning",
-    "Print quality"
+    "프린터 오프라인",
+    "인쇄 대기열 오류",
+    "무선 연결·설정",
+    "드라이버 설치",
+    "스캔·저장",
+    "인쇄 품질·용지"
   ],
   "url": "https://printer.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "프린터·스캐너 문제 해결",
+  "pageTitle": "프린터·스캐너 오류 해결 가이드 | GuideHollow"
 }
