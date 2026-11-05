@@ -2,8 +2,8 @@
   "title": "GuideHollow",
   "slug": "printer",
   "short": "프린터",
-  "hero": "프린터가 작동하지 않을 때, 연결부터 출력까지 확인하세요.",
-  "description": "프린터 오프라인 오류, 인쇄 대기열, 무선 연결, 드라이버와 스캔 문제 해결법을 안내합니다.",
+  "hero": "인쇄 용지 장수 계산",
+  "description": "중복 페이지는 한 번만 셉니다. 양면 인쇄는 각 부마다 새 용지를 사용합니다.",
   "accent": "#596a80",
   "topics": [
     "프린터 오프라인",
@@ -16,7 +16,8 @@
   "url": "https://printer.guidehollow.com/",
   "launchReady": true,
   "section": "프린터·스캐너 문제 해결",
-  "pageTitle": "프린터·스캐너 오류 해결 가이드 | GuideHollow",
+  "pageTitle": "인쇄 용지 장수 계산 | GuideHollow",
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
